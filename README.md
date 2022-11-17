@@ -1,10 +1,10 @@
 # Exports
 ```
 -- This export returns the entity id of the ped that was created.
-exports["ped-spawner"]:AddPed(model, coords, animDict, animName, scenario, options, distance)
+exports["npc-manager"]:AddPed(model, coords, animDict, animName, scenario, options, distance)
 
 -- This export will remove a ped from the list by entity id.
-exports["ped-spawner"]:RemovePed(id)
+exports["npc-manager"]:RemovePed(id)
 ```
 
 # Presets
