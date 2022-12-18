@@ -1,8 +1,8 @@
 
 
 Config = {}
-Config.UseTarget = false -- If you have a target script, it is setup by default for qr-target: https://github.com/QRCore-RedM-Re/qr-target
-Config.Distance = 10.0 -- Distance to render peds
+Config.UseTarget = true -- If you have a target script, it is setup by default for qr-target: https://github.com/QRCore-RedM-Re/qr-target
+Config.Distance = 15.0 -- Distance to render peds
 
 
 Config.Locations = {
